@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RubenNijhuisDEPT
+- 👀 I’m interested in Creative Coding
+- 🌱 I’m currently learning how to collaborate on Github
+- 💞️ I’m looking to collaborate on new and interesting ideas
+- 📫 How to reach me ruben.nijhuis@deptagency.com
